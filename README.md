@@ -86,7 +86,7 @@ ConnectifyVPN Premium Suite
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-org/connectifyvpn-premium.git
+   git clone https://github.com/NasiFried/connectifyvpn-premium.git
    cd connectifyvpn-premium
    ```
 
